@@ -1,5 +1,8 @@
 yii2-dynamicform
 ===================
+This is a modified version of wbraganca/yii2-dynamicform that supports kartik select2 widget.
+
+The applied patch can be found here: https://github.com/TimNZ/yii2-dynamicform/blob/master/src/assets/yii2-dynamic-form.js
 
 [![Latest Version](https://img.shields.io/github/release/wbraganca/yii2-dynamicform.svg?style=flat-square)](https://github.com/wbraganca/yii2-dynamicform/releases)
 [![Software License](http://img.shields.io/badge/license-BSD3-brightgreen.svg?style=flat-square)](LICENSE.md)
